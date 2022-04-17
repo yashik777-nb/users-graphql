@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "Yash",
+            "age": 25
+        },
+        {
+            "id": "2",
+            "firstName": "Sai",
+            "age": 26
+        },
+        {
+            "id": "3",
+            "firstName": "Kiran",
+            "age": 27
+        },
+        {
+            "id": "4",
+            "firstName": "Chiru",
+            "age": 28
+        },
+        {
+            "id": "5",
+            "firstName": "Ram",
+            "age": 29
+        },
+        {
+            "id": "6",
+            "firstName": "Charan",
+            "age": 24
+        },
+        {
+            "id": "7",
+            "firstName": "Pawan",
+            "age": 23
+        }
+    ]
+}
